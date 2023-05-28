@@ -1,2 +1,2 @@
 # odin-blog
-Odin Project - HTML foundations, based on recipe project
+[Odin Project](https://github.com/n4m3name/odin-project) - HTML foundations, based on recipe project
